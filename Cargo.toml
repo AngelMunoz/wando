@@ -12,9 +12,13 @@ futures = "0.3"
 version = "0.48.0"
 features = [
     "System",
+    "System_Inventory",
+    "Security_Cryptography",
+    "Security_Cryptography_DataProtection",
     "Foundation",
     "Foundation_Collections",
     "Storage",
+    "Storage_Pickers",
     "Storage_FileProperties",
     "Storage_Search",
     "Storage_Streams",
